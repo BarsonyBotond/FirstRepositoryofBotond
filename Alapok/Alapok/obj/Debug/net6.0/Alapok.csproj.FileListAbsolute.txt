@@ -1,0 +1,15 @@
+C:\Users\3dstu\Desktop\Projektek\FirstRepositoryofBotond\Alapok\Alapok\bin\Debug\net6.0\Alapok.exe
+C:\Users\3dstu\Desktop\Projektek\FirstRepositoryofBotond\Alapok\Alapok\bin\Debug\net6.0\Alapok.deps.json
+C:\Users\3dstu\Desktop\Projektek\FirstRepositoryofBotond\Alapok\Alapok\bin\Debug\net6.0\Alapok.runtimeconfig.json
+C:\Users\3dstu\Desktop\Projektek\FirstRepositoryofBotond\Alapok\Alapok\bin\Debug\net6.0\Alapok.dll
+C:\Users\3dstu\Desktop\Projektek\FirstRepositoryofBotond\Alapok\Alapok\bin\Debug\net6.0\Alapok.pdb
+C:\Users\3dstu\Desktop\Projektek\FirstRepositoryofBotond\Alapok\Alapok\obj\Debug\net6.0\Alapok.csproj.AssemblyReference.cache
+C:\Users\3dstu\Desktop\Projektek\FirstRepositoryofBotond\Alapok\Alapok\obj\Debug\net6.0\Alapok.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3dstu\Desktop\Projektek\FirstRepositoryofBotond\Alapok\Alapok\obj\Debug\net6.0\Alapok.AssemblyInfoInputs.cache
+C:\Users\3dstu\Desktop\Projektek\FirstRepositoryofBotond\Alapok\Alapok\obj\Debug\net6.0\Alapok.AssemblyInfo.cs
+C:\Users\3dstu\Desktop\Projektek\FirstRepositoryofBotond\Alapok\Alapok\obj\Debug\net6.0\Alapok.csproj.CoreCompileInputs.cache
+C:\Users\3dstu\Desktop\Projektek\FirstRepositoryofBotond\Alapok\Alapok\obj\Debug\net6.0\Alapok.dll
+C:\Users\3dstu\Desktop\Projektek\FirstRepositoryofBotond\Alapok\Alapok\obj\Debug\net6.0\refint\Alapok.dll
+C:\Users\3dstu\Desktop\Projektek\FirstRepositoryofBotond\Alapok\Alapok\obj\Debug\net6.0\Alapok.pdb
+C:\Users\3dstu\Desktop\Projektek\FirstRepositoryofBotond\Alapok\Alapok\obj\Debug\net6.0\Alapok.genruntimeconfig.cache
+C:\Users\3dstu\Desktop\Projektek\FirstRepositoryofBotond\Alapok\Alapok\obj\Debug\net6.0\ref\Alapok.dll
