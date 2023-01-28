@@ -123,10 +123,16 @@ int e = 1;
     
 }
 } */
-//metódusok 
+//metódusok
+//
+/*
 float f2 = 12.5f;
 float f3 = 3f;
 double power = Math.Pow(f2, f3);
+double power2 = Math.Pow(11.5, 45);
+double power3 = Math.Abs(f2);
+ double pi = Math.PI;
 {
-    Console.WriteLine("power");
+    
 }
+*/
